@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oi morrrr
+=======
+oiiii testanbdo
+>>>>>>> 0bc9e875fe48dbd1c4b892acc5b58561242db7d7
